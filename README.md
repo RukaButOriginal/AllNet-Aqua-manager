@@ -1,6 +1,7 @@
 # AllNet-Aqua-manager
 AllNet Aqua Server+Viewer manager UI written in batch
 
+Download: https://github.com/RukaButOriginal/AllNet-Aqua-manager/releases
 To run the UI, navigate to and launch *start.bat*
 
 
